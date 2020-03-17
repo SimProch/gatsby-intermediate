@@ -1,0 +1,17 @@
+{
+  "name": "theme-dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "SimProch <prochazka.simon@hotmail.com> (https://github.com/SimProch)",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "develop": "gatsby develop"
+  },
+  "dependencies": {
+    "gatsby": "^2.19.45",
+    "gatsby-theme-docs": "*",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
